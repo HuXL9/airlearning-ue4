@@ -13,12 +13,7 @@
 			]
 		}
 	],
-	"Plugins": [
-		{
-			"Name": "AirSim",
-			"Enabled": true
-		}
-	],
+
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
